@@ -1,4 +1,4 @@
-<div align="center">
+o<div align="center">
 
 <img src="https://github.com/buroa/k8s-gitops/assets/36205263/14771e67-0c36-4b7c-923f-31f54529067d" align="center" width="144px" height="144px"/>
 
